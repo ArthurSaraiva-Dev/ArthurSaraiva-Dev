@@ -2,6 +2,5 @@
 
 
 
-- 🌱 Estudando Front-End
-- 💻 HTML&CSS + JavaScript
-
+- 🌱 Estudando Back-end
+- 💻 Java
