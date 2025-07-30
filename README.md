@@ -1,11 +1,11 @@
 # 👨🏻‍💻 Arthur Saraiva
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
-Me chamo Arthur Saraiva, tenho 19 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na universidade Estácio de Sá.
+I'm 19 years old and from Rio de Janeiro. I'm currently studying Systems Analysis and Development at Estácio de Sá University.
 ---
 
-### 🤖 Tecnologias e Linguagens
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
