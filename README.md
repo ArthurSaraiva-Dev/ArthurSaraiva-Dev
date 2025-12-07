@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-I'm 19 years old and from Brazil. I'm currently studying Systems Analysis and Development at Estácio de Sá University.
+I'm 20 years old and from Brazil. I'm currently studying Systems Analysis and Development at Estácio de Sá University.
 ---
 
 ### 🤖 Languages and Technologies
