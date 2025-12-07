@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Arthur Saraiva
 
-**`FullStack Developer`**
+**`Back-end Developer`**
 
 I'm 20 years old and from Brazil. I'm currently studying Systems Analysis and Development at Estácio de Sá University.
 ---
