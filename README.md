@@ -6,7 +6,7 @@
 
 ### 🚀 What am I currently working on?
 - 🛠️ Learning **Java and Spring Boot**.
-- 📅 Create practical projects to solve real-world problems (such as scheduling systems and study organizers).
+- 📅 Create practical projects to solve real-world problems.
   
   #### &#128295; Tech:
   - BackEnd:<br>
