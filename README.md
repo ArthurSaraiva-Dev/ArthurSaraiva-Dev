@@ -1,3 +1,5 @@
+<img src = "githubanner.JPG"/>
+
 ### Hey you! I'm Arthur! 👋
 #### Welcome!
 
