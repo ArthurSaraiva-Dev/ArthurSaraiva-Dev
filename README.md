@@ -1,5 +1,11 @@
 <img src = "githubannerr.JPG"/>
 
+<p align="center">
+  <a href="www.linkedin.com/in/arthursaraiva-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ### Hey you! I'm Arthur! 👋
 #### Welcome!
 
