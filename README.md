@@ -1,4 +1,4 @@
-<img src = "githubannerr.JPG"/>
+<img src = "bannergit.jpg"/>
 
 <p align="center">
   <a href="www.linkedin.com/in/arthursaraiva-dev" target="_blank">
@@ -6,10 +6,19 @@
   </a>
 </p>
 
-### Hey you! I'm Arthur! 👋
-#### Welcome!
+<br>
 
-👩🏻‍💻 I'm 20 years old and from Brazil. I'm currently studying Systems Analysis and Development at Estácio de Sá University. <br>  Passionate about technology, both software and infrastructure/hardware. Currently, I am focused on improving my skills in back-end development and programming logic.
+<h2 align="center"> <img src="icon1.png" width="25" style= "margin-left: 5px;"/> <em> About  me </em></h2>
+
+<img src="minibanner.jpg" width="250" align="right" style="margin-left: 30px" />
+<br/>
+
+<p>
+  I'm 20 years old and from Brazil. I'm currently studying Systems Analysis and Development at Estácio de Sá University. Passionate about technology, both software and infrastructure/hardware. Currently, I am focused on improving my skills in back-end            development and programming logic.
+</p>
+
+
+
 
 
 ### 🚀 What am I currently working on?
